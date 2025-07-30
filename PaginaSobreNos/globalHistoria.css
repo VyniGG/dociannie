@@ -1,0 +1,64 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+/* Accessibility improvements */
+:focus {
+  outline: 2px solid #4a90e2;
+}
+
+/* Improved readability */
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  color: #49363d;
+}
+
+/* Responsive font sizing */
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Improved contrast for better accessibility */
+.text-wrapper,
+.text-wrapper-17,
+.text-wrapper-52 {
+  color: #49363d;
+}
+
+.text-wrapper-25,
+.text-wrapper-31,
+.text-wrapper-32,
+.text-wrapper-33,
+.text-wrapper-35,
+.text-wrapper-36,
+.text-wrapper-37,
+.text-wrapper-39 {
+  color: #6d5d62;
+}
+
+/* Smooth scrolling for better user experience */
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,1741 @@
+.docianne-home {
+  width: 1425px;
+  height: 3229px;
+  background-color: #3f3f3f;
+  border-radius: 2px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffffff1a;
+}
+
+.docianne-home .group {
+  position: relative;
+  height: 3229px;
+  top: 1px;
+}
+
+.docianne-home .screen {
+  width: 1425px;
+  height: 3229px;
+}
+
+.docianne-home .body {
+  height: 3229px;
+  background-color: #fcfcfc;
+}
+
+.docianne-home .div-min-h-screen {
+  position: relative;
+  width: 1425px;
+  height: 3229px;
+  background-color: #fcfcfc;
+}
+
+.docianne-home .footer-bg-secondary {
+  position: absolute;
+  width: 1425px;
+  height: 346px;
+  top: 2883px;
+  left: 0;
+  background-color: #f6eef1;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #f0e6e9;
+}
+
+.docianne-home .div-max-w {
+  display: flex;
+  flex-direction: column;
+  width: 1280px;
+  height: 217px;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 48px 32px 2860.33px;
+  position: relative;
+  top: 1px;
+  left: 72px;
+}
+
+.docianne-home .div-grid {
+  display: flex;
+  width: 1152px;
+  height: 160px;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  margin-bottom: -2851.33px;
+}
+
+.docianne-home .div-col-span {
+  display: flex;
+  flex-direction: column;
+  width: 592px;
+  height: 128px;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 0px 0px 2908.33px;
+  position: relative;
+}
+
+.docianne-home .div-flex {
+  position: relative;
+  width: 592px;
+  height: 32px;
+  margin-bottom: -2812.33px;
+}
+
+.docianne-home .text-wrapper {
+  position: absolute;
+  height: 32px;
+  top: 0;
+  left: 40px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #49363d;
+  font-size: 24.2px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.docianne-home .icon {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.docianne-home .vector {
+  position: absolute;
+  width: 29px;
+  height: 27px;
+  top: 3px;
+  left: 1px;
+}
+
+.docianne-home .paragraph-text-muted {
+  display: flex;
+  flex-direction: column;
+  width: 448px;
+  height: 72px;
+  align-items: flex-start;
+  padding: 0px 25.53px 2956.33px 0px;
+  position: relative;
+  margin-bottom: -2900.33px;
+}
+
+.docianne-home .div {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2908.33px;
+  color: #988188;
+  font-size: 19.4px;
+  line-height: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.docianne-home .p {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2932.33px;
+  margin-right: -38.53px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2956.33px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .img {
+  position: relative;
+  width: 64px;
+  height: 24px;
+  margin-bottom: -2940.33px;
+}
+
+.docianne-home .div-2 {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 96px;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 0px 0px 2844.33px;
+  position: relative;
+}
+
+.docianne-home .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2772.33px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 18.6px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .list-space-y {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 72px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 183.98px 2948.33px 0px;
+  position: relative;
+  margin-bottom: -2860.33px;
+}
+
+.docianne-home .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2900.33px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2932.33px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2964.33px;
+  margin-right: -21.98px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-3 {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 72px;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 0px 0px 2876.33px;
+  position: relative;
+  margin-right: -64.00px;
+}
+
+.docianne-home .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -2828.33px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 18.6px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .list-space-y-2 {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 48px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 0px 2948.33px;
+  position: relative;
+  margin-bottom: -2892.33px;
+}
+
+.docianne-home .item-flex {
+  position: relative;
+  width: 280px;
+  height: 24px;
+  margin-bottom: -2924.33px;
+}
+
+.docianne-home .text-wrapper-8 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .icon-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 4px;
+  left: 0;
+}
+
+.docianne-home .vector-2 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 1px;
+  left: 1px;
+}
+
+.docianne-home .item-flex-2 {
+  position: relative;
+  width: 280px;
+  height: 24px;
+  margin-bottom: -2956.33px;
+}
+
+.docianne-home .overlap-group {
+  position: relative;
+  width: 15px;
+  height: 12px;
+  top: 2px;
+  left: 1px;
+  background-image: url(./img/vector-6.svg);
+  background-size: 100% 100%;
+}
+
+.docianne-home .vector-3 {
+  position: absolute;
+  width: 15px;
+  height: 5px;
+  top: 2px;
+  left: 0;
+}
+
+.docianne-home .div-border-t {
+  position: relative;
+  width: 1216px;
+  height: 57px;
+  margin-bottom: -2940.33px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #f0e6e9;
+}
+
+.docianne-home .paragraph-text-muted-2 {
+  position: relative;
+  height: 24px;
+  top: 33px;
+}
+
+.docianne-home .text-wrapper-9 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 274px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .vector-wrapper {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 4px;
+  left: 821px;
+}
+
+.docianne-home .vector-4 {
+  position: absolute;
+  width: 15px;
+  height: 13px;
+  top: 1px;
+  left: 1px;
+}
+
+.docianne-home .para-voc {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 837px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-4 {
+  position: absolute;
+  width: 1425px;
+  height: 2883px;
+  top: 0;
+  left: 0;
+}
+
+.docianne-home .section-py {
+  position: absolute;
+  width: 1425px;
+  height: 356px;
+  top: 2527px;
+  left: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(239, 143, 175, 1) 0%,
+    rgba(240, 194, 209, 1) 100%
+  );
+}
+
+.docianne-home .div-max-w-xl {
+  position: relative;
+  width: 896px;
+  height: 196px;
+  top: 80px;
+  left: 264px;
+}
+
+.docianne-home .link-inline-flex {
+  position: absolute;
+  width: 312px;
+  height: 44px;
+  top: 152px;
+  left: 292px;
+  background-color: #f6eef1;
+  border-radius: 6px;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 4px 12px
+    #ef8faf4c;
+}
+
+.docianne-home .text-wrapper-10 {
+  position: absolute;
+  height: 28px;
+  top: 8px;
+  left: 32px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #49363d;
+  font-size: 18.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .paragraph-text-xl {
+  position: absolute;
+  width: 864px;
+  height: 56px;
+  top: 64px;
+  left: 16px;
+}
+
+.docianne-home .text-wrapper-11 {
+  position: absolute;
+  height: 28px;
+  top: 28px;
+  left: 354px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffffe6;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-12 {
+  position: absolute;
+  height: 28px;
+  top: 0;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffffe6;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-13 {
+  position: absolute;
+  height: 40px;
+  top: 0;
+  left: 156px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 41.2px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-max-w-wrapper {
+  position: absolute;
+  width: 1425px;
+  height: 566px;
+  top: 1961px;
+  left: 0;
+  background-color: #ffacc738;
+}
+
+.docianne-home .div-max-w-2 {
+  display: flex;
+  flex-direction: column;
+  height: 342px;
+  align-items: flex-start;
+  gap: 64px;
+  padding: 0px 16px 1783.33px;
+  position: relative;
+  top: 80px;
+  width: 1280px;
+  left: 72px;
+}
+
+.docianne-home .div-text-center {
+  position: relative;
+  width: 1248px;
+  height: 84px;
+  margin-bottom: -1525.33px;
+}
+
+.docianne-home .text-wrapper-14 {
+  position: absolute;
+  height: 28px;
+  top: 56px;
+  left: 288px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-15 {
+  position: absolute;
+  height: 40px;
+  top: 0;
+  left: 322px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #49363d;
+  font-size: 41.2px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-grid-2 {
+  width: 1152px;
+  height: 258px;
+  position: relative;
+  margin-bottom: -1847.33px;
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.docianne-home .div-rounded-lg {
+  position: relative;
+  width: 288px;
+  height: 258px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #f0e6e9;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 1px 2px
+    #0000000d;
+}
+
+.docianne-home .div-p {
+  position: relative;
+  width: 286px;
+  height: 256px;
+  top: 1px;
+  left: 1px;
+}
+
+.docianne-home .paragraph-text-muted-3 {
+  position: absolute;
+  width: 222px;
+  height: 72px;
+  top: 152px;
+  left: 32px;
+}
+
+.docianne-home .text-wrapper-16 {
+  position: absolute;
+  height: 24px;
+  top: 48px;
+  left: 49px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-17 {
+  position: absolute;
+  height: 24px;
+  top: 24px;
+  left: 25px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-18 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-19 {
+  position: absolute;
+  height: 28px;
+  top: 112px;
+  left: 59px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 21.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-w {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 32px;
+  left: 111px;
+  background-color: #ef8faf1a;
+  border-radius: 9999px;
+}
+
+.docianne-home .icon-3 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  top: 16px;
+  left: 16px;
+}
+
+.docianne-home .text-wrapper-20 {
+  position: absolute;
+  height: 24px;
+  top: 48px;
+  left: 63px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-21 {
+  position: absolute;
+  height: 24px;
+  top: 24px;
+  left: 1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-22 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 53px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-23 {
+  position: absolute;
+  height: 28px;
+  top: 112px;
+  left: 41px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 21.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .vector-5 {
+  position: absolute;
+  width: 29px;
+  height: 28px;
+  top: 1px;
+  left: 1px;
+}
+
+.docianne-home .div-p-2 {
+  position: relative;
+  width: 286px;
+  height: 232px;
+  top: 1px;
+  left: 1px;
+}
+
+.docianne-home .paragraph-text-muted-4 {
+  position: absolute;
+  width: 222px;
+  height: 48px;
+  top: 152px;
+  left: 32px;
+}
+
+.docianne-home .text-wrapper-24 {
+  position: absolute;
+  height: 24px;
+  top: 24px;
+  left: 39px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-25 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 25px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-26 {
+  position: absolute;
+  height: 28px;
+  top: 112px;
+  left: 71px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 21.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .img-wrapper {
+  width: 29px;
+  left: 1px;
+  background-image: url(./img/vector-7.svg);
+  background-size: 100% 100%;
+  position: relative;
+  height: 29px;
+  top: 1px;
+}
+
+.docianne-home .vector-6 {
+  position: absolute;
+  width: 8px;
+  height: 13px;
+  top: 5px;
+  left: 13px;
+}
+
+.docianne-home .div-p-wrapper {
+  width: 288px;
+  height: 258px;
+  margin-right: -96.00px;
+  background-color: #ffffff;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #f0e6e9;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 1px 2px
+    #0000000d;
+}
+
+.docianne-home .text-wrapper-27 {
+  position: absolute;
+  height: 24px;
+  top: 24px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-28 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.docianne-home .overlap-group-2 {
+  width: 19px;
+  left: 7px;
+  position: relative;
+  height: 29px;
+  top: 1px;
+}
+
+.docianne-home .vector-7 {
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 15px;
+  left: 1px;
+}
+
+.docianne-home .vector-8 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 0;
+  left: 0;
+}
+
+.docianne-home .div-max-w-3 {
+  position: absolute;
+  height: 837px;
+  top: 1044px;
+  width: 1280px;
+  left: 72px;
+}
+
+.docianne-home .div-wrapper {
+  position: absolute;
+  width: 242px;
+  top: 793px;
+  left: 519px;
+  background-color: #fcfcfc;
+  border: 1px solid;
+  border-color: #f4ecee;
+  height: 44px;
+  border-radius: 6px;
+}
+
+.docianne-home .text-wrapper-29 {
+  position: absolute;
+  height: 20px;
+  top: 11px;
+  left: 33px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #49363d;
+  font-size: 16.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-grid-3 {
+  width: 1216px;
+  height: 569px;
+  position: absolute;
+  top: 176px;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.docianne-home .div-rounded-lg-2 {
+  display: flex;
+  flex-direction: column;
+  width: 405.33px;
+  height: 567.33px;
+  align-items: flex-start;
+  gap: 0px;
+  padding: 1px 1px 1104px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(251, 248, 249, 1) 100%
+  );
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #f0e6e9;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 1px 2px
+    #0000000d;
+}
+
+.docianne-home .div-aspect-square {
+  position: relative;
+  width: 403.33px;
+  height: 403.33px;
+  margin-bottom: -942.00px;
+  margin-right: -1.00px;
+  background-image: url(./img/image-w-full-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.docianne-home .div-p-3 {
+  position: relative;
+  width: 403.33px;
+  height: 164px;
+  margin-bottom: -1104.00px;
+  margin-right: -1.00px;
+}
+
+.docianne-home .text-wrapper-30 {
+  top: 112px;
+  position: absolute;
+  height: 28px;
+  left: 24px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ef8faf;
+  font-size: 22.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .paragraph-text-muted-5 {
+  display: flex;
+  flex-direction: column;
+  width: 355px;
+  height: 40px;
+  align-items: flex-start;
+  padding: 0px 78.08px 1664.33px 0px;
+  position: absolute;
+  top: 60px;
+  left: 24px;
+}
+
+.docianne-home .text-wrapper-31 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -1644.33px;
+  margin-right: -14.75px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 16.7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-32 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -1664.33px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 16.7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-33 {
+  position: absolute;
+  height: 28px;
+  top: 24px;
+  left: 24px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #49363d;
+  font-size: 22.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-aspect-square-2 {
+  position: relative;
+  width: 403.33px;
+  height: 403.33px;
+  margin-bottom: -942.00px;
+  margin-right: -1.00px;
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.docianne-home .paragraph-text-muted-6 {
+  display: flex;
+  flex-direction: column;
+  width: 355px;
+  height: 40px;
+  align-items: flex-start;
+  padding: 0px 61.27px 1664.33px 0px;
+  position: absolute;
+  top: 60px;
+  left: 24px;
+}
+
+.docianne-home .text-wrapper-34 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -1644.33px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 16.7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-rounded-lg-3 {
+  display: flex;
+  flex-direction: column;
+  width: 405.35px;
+  height: 547.35px;
+  align-items: flex-start;
+  padding: 1px 1px 1124px;
+  margin-right: -64.00px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(251, 248, 249, 1) 100%
+  );
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #f0e6e9;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 1px 2px
+    #0000000d;
+}
+
+.docianne-home .div-aspect-square-3 {
+  position: relative;
+  width: 403.35px;
+  height: 403.35px;
+  margin-bottom: -982.00px;
+  margin-right: -1.00px;
+  background-image: url(./img/image-w-full.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.docianne-home .div-p-4 {
+  position: relative;
+  width: 403.35px;
+  height: 144px;
+  margin-bottom: -1124.00px;
+  margin-right: -1.00px;
+  margin-top: 0px;
+}
+
+.docianne-home .text-wrapper-35 {
+  top: 92px;
+  position: absolute;
+  height: 28px;
+  left: 24px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ef8faf;
+  font-size: 22.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-36 {
+  position: absolute;
+  height: 20px;
+  top: 60px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 16.7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.docianne-home .div-text-center-2 {
+  position: absolute;
+  width: 1280px;
+  height: 112px;
+  top: 0;
+  left: 0;
+}
+
+.docianne-home .paragraph-text-xl-2 {
+  position: absolute;
+  width: 672px;
+  height: 56px;
+  top: 56px;
+  left: 304px;
+}
+
+.docianne-home .text-wrapper-37 {
+  position: absolute;
+  height: 28px;
+  top: 28px;
+  left: 72px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-38 {
+  position: absolute;
+  height: 28px;
+  top: 0;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #988188;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-39 {
+  position: absolute;
+  height: 40px;
+  top: 0;
+  left: 348px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #49363d;
+  font-size: 41.2px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.docianne-home .section-relative {
+  position: absolute;
+  width: 1425px;
+  height: 900px;
+  top: 64px;
+  left: 0;
+}
+
+.docianne-home .overlap {
+  position: relative;
+  height: 900px;
+}
+
+.docianne-home .div-absolute {
+  position: absolute;
+  width: 1425px;
+  height: 900px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/div-absolute.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.docianne-home .div-absolute-2 {
+  height: 900px;
+  background-color: #0000004c;
+}
+
+.docianne-home .div-relative {
+  position: absolute;
+  width: 896px;
+  height: 236px;
+  top: 332px;
+  left: 264px;
+}
+
+.docianne-home .div-flex-2 {
+  display: flex;
+  width: 530px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 0px 42.86px 0px 159.16px;
+  position: absolute;
+  top: 192px;
+  left: 16px;
+}
+
+.docianne-home .link-inline-flex-2 {
+  position: relative;
+  width: 226.04px;
+  background-color: #ef8faf;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent, 0px 4px 12px
+    #ef8faf4c;
+  height: 44px;
+  border-radius: 6px;
+}
+
+.docianne-home .text-wrapper-40 {
+  position: absolute;
+  height: 28px;
+  top: 8px;
+  left: 32px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .link-inline-flex-3 {
+  position: relative;
+  width: 303.65px;
+  margin-right: -218.02px;
+  background-color: #fcfcfc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 44px;
+  border-radius: 6px;
+}
+
+.docianne-home .text-wrapper-41 {
+  position: absolute;
+  height: 28px;
+  top: 7px;
+  left: 33px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18.4px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.docianne-home .paragraph-text-xl-3 {
+  position: absolute;
+  width: 864px;
+  height: 64px;
+  top: 96px;
+  left: 16px;
+  opacity: 0.9;
+}
+
+.docianne-home .text-wrapper-42 {
+  position: absolute;
+  height: 32px;
+  top: 32px;
+  left: 274px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 27.6px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-43 {
+  position: absolute;
+  height: 32px;
+  top: 0;
+  left: 43px;
+  color: #ffffff;
+  font-size: 27.6px;
+  line-height: 32px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.docianne-home .text-wrapper-44 {
+  position: absolute;
+  height: 72px;
+  top: 0;
+  left: 275px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 72.1px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.docianne-home .nav-fixed {
+  position: absolute;
+  width: 1425px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+/* Inject original CSS here */
+
+/* Global Styles */
+body {
+  font-family: "Inter", sans-serif;
+  color: #49363d;
+  line-height: 1.5;
+}
+
+.section-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 80px 32px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 700;
+}
+
+/* Header */
+.nav-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo span {
+  font-size: 24px;
+  font-weight: 700;
+  margin-left: 8px;
+}
+
+nav ul {
+  display: flex;
+  gap: 24px;
+}
+
+nav ul li a {
+  color: #49363d;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Hero Section */
+.hero {
+  background-image: url("./img/div-absolute.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: #ffffff;
+  max-width: 896px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 72px;
+  margin-bottom: 24px;
+}
+
+.hero p {
+  font-size: 28px;
+  margin-bottom: 32px;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.cta-primary,
+.cta-secondary {
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.cta-primary {
+  background-color: #ef8faf;
+  color: #ffffff;
+}
+
+.cta-secondary {
+  background-color: #ffffff;
+  color: #49363d;
+  border: 1px solid #ffffff;
+}
+
+/* Products Section */
+.produtos h2 {
+  font-size: 41px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.produtos > p {
+  text-align: center;
+  color: #988188;
+  font-size: 23px;
+  max-width: 672px;
+  margin: 0 auto 48px;
+}
+
+.produtos-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-bottom: 48px;
+}
+
+.produto {
+  background: linear-gradient(180deg, #ffffff 0%, #fbf8f9 100%);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  border: 1px solid #f0e6e9;
+}
+
+.produto img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.produto h3 {
+  font-size: 22px;
+  margin: 24px 24px 12px;
+}
+
+.produto p {
+  font-size: 17px;
+  color: #988188;
+  margin: 0 24px 12px;
+}
+
+.produto .preco {
+  display: block;
+  font-size: 22px;
+  font-weight: 600;
+  color: #ef8faf;
+  margin: 0 24px 24px;
+}
+
+.ver-todos {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 12px 24px;
+  background-color: #fcfcfc;
+  border: 1px solid #f4ecee;
+  border-radius: 6px;
+  color: #49363d;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+/* Diferenciais Section */
+.diferenciais {
+  background-color: #ffacc738;
+}
+
+.diferenciais h2 {
+  font-size: 41px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.diferenciais > p {
+  text-align: center;
+  color: #988188;
+  font-size: 23px;
+  max-width: 672px;
+  margin: 0 auto 48px;
+}
+
+.diferenciais-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+}
+
+.diferencial {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  border: 1px solid #f0e6e9;
+}
+
+.diferencial img {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 24px;
+}
+
+.diferencial h3 {
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+
+.diferencial p {
+  font-size: 19px;
+  color: #988188;
+}
+
+/* Encomendas Section */
+.encomendas {
+  background: linear-gradient(135deg, #ef8faf 0%, #f0c2d1 100%);
+  color: #ffffff;
+  text-align: center;
+}
+
+.encomendas h2 {
+  font-size: 41px;
+  margin-bottom: 16px;
+}
+
+.encomendas p {
+  font-size: 23px;
+  max-width: 672px;
+  margin: 0 auto 32px;
+}
+
+/* Footer */
+footer {
+  background-color: #f6eef1;
+  border-top: 1px solid #f0e6e9;
+  padding: 48px 0 0;
+}
+
+.footer-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 32px;
+  padding: 0 32px;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.footer-logo span {
+  font-size: 24px;
+  font-weight: 700;
+  margin-left: 8px;
+}
+
+.footer-content > p {
+  color: #988188;
+  font-size: 19px;
+  margin-bottom: 16px;
+}
+
+.social-media img {
+  height: 24px;
+}
+
+.footer-links h4 {
+  font-size: 19px;
+  margin-bottom: 16px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a,
+.footer-links span {
+  color: #988188;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.footer-links img {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #f0e6e9;
+  margin-top: 32px;
+  padding: 24px 0;
+  text-align: center;
+}
+
+.footer-bottom p {
+  color: #988188;
+  font-size: 19px;
+}
+
+.footer-bottom img {
+  vertical-align: middle;
+  margin: 0 4px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .produtos-grid,
+  .diferenciais-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .produtos-grid,
+  .diferenciais-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+  }
+
+  .hero h1 {
+    font-size: 48px;
+  }
+
+  .hero p {
+    font-size: 20px;
+  }
+}
